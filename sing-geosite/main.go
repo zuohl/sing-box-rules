@@ -288,7 +288,7 @@ func release(source string, destination string, output string, cnOutput string, 
 
 func main() {
 	err := release(
-		"Loyalsoldier/v2ray-rules-dat",
+		"elysias123/geosite",
 		"lyc8503/sing-geosite",
 		"geosite.db",
 		"geosite-cn.db",
