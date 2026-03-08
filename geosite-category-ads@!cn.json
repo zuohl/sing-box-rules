@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "analytics.tiktok.com",
+                "htrace.wetvinfo.com"
+            ],
+            "domain_suffix": [
+                ".analytics.tiktok.com",
+                ".htrace.wetvinfo.com"
+            ]
+        }
+    ]
+}
