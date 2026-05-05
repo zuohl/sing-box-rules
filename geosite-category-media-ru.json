@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "russiatoday.com",
+                "rteam.tech",
+                "shop-rt.com",
+                "swentr.site"
+            ],
+            "domain_suffix": [
+                ".russiatoday.com",
+                ".rteam.tech",
+                ".shop-rt.com",
+                ".swentr.site"
+            ]
+        }
+    ]
+}

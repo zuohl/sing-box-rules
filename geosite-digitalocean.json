@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "digitalocean.com",
+                "digitalocean-ui.com",
+                "digitaloceanspaces.com",
+                "do.co",
+                "nginxconfig.io"
+            ],
+            "domain_suffix": [
+                ".digitalocean.com",
+                ".digitalocean-ui.com",
+                ".digitaloceanspaces.com",
+                ".do.co",
+                ".nginxconfig.io"
+            ]
+        }
+    ]
+}

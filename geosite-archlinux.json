@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "archlinux.de",
+                "archlinux.org",
+                "archlinuxarm.org",
+                "pkgbuild.com",
+                "archlinuxcn.org"
+            ],
+            "domain_suffix": [
+                ".archlinux.de",
+                ".archlinux.org",
+                ".archlinuxarm.org",
+                ".pkgbuild.com",
+                ".archlinuxcn.org"
+            ]
+        }
+    ]
+}
