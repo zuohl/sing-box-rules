@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "dt.dbankcloud.ru",
+                "analytics.tiktok.com",
+                "htrace.wetvinfo.com"
+            ],
+            "domain_suffix": [
+                ".dt.dbankcloud.ru",
+                ".analytics.tiktok.com",
+                ".htrace.wetvinfo.com"
+            ]
+        }
+    ]
+}
